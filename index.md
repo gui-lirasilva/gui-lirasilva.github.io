@@ -50,8 +50,6 @@
 
         <section id="about-container">
 
-            <h1 id="name">Guilherme Henrique</h1>
-
             <p id="title"><span class="highlight">Desenvolvedor Back-end (Java)</span></p>
 
             <p class="description">Sou um estudante de desenvolvimento de software apaixonado por tecnologia, sempre
