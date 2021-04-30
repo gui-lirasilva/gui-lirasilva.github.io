@@ -116,7 +116,7 @@
     flex: 1 1 0;
   }
   
-  #language-selectionr a {
+  #language-selection a {
     color: var(--main-text-color);
     text-decoration: none;
     max-width: 225px;
